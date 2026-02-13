@@ -3,7 +3,7 @@ val logbackVersion: String by project
 
 plugins {
     kotlin("jvm") version "2.1.10"
-    id("io.ktor.plugin") version "3.1.0"
+    id("io.ktor.plugin") version "3.3.0-eap-115"
 }
 
 group = "com.thrive"
